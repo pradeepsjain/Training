@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pradeep.MVVM.DataLayer\Pradeep.MVVM.DataLayer.csproj" />
+    <ProjectReference Include="..\Pradeep.MVVM.EntityLayer\Pradeep.MVVM.EntityLayer.csproj" />
+    <ProjectReference Include="..\Pradeep.MVVM.CommonLibrary\Pradeep.MVVM.CommonLibrary.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

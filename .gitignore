@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs
+/Pradeep.MVVM.CommonLibrary/bin/Debug/netstandard2.0
+/Pradeep.MVVM.CommonLibrary/obj
+/Pradeep.MVVM.DataLayer/bin/Debug/netstandard2.0
+/Pradeep.MVVM.DataLayer/obj/Debug/netstandard2.0
+/Pradeep.MVVM.DataLayer/obj/Release/netstandard2.0
+/Pradeep.MVVM.DataLayer/obj
+/Pradeep.MVVM.EntityLayer/bin/Debug/netstandard2.0
+/Pradeep.MVVM.EntityLayer/obj
+/Pradeep.MVVM.Pattern/bin/Debug/netcoreapp3.1
+/Pradeep.MVVM.Pattern/obj
+/Pradeep.MVVM.ViewModelLayer/bin/Debug/netstandard2.0
+/Pradeep.MVVM.ViewModelLayer/obj
